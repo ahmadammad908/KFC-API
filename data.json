@@ -1,0 +1,72 @@
+[
+    {
+        "id" :1 , 
+        "title": "Krunch Burger",
+        "image": "https://images.deliveryhero.io/image/fd-pk/Products/1165011.png?width=%s",
+        "price":270,
+        "description":"Krunch fillet, spicy mayo, lettuce, sandwiched between a sesame seed bun"
+    },
+    {
+        "id" :2, 
+        "title": "Mighty Zinger",
+        "image": "https://images.deliveryhero.io/image/fd-pk/Products/1511596.png?width=%s",
+        "price":700,
+        "description":"Our signature Zinger but Bigger! Double Zinger fillet with a combination of spicy and plain mayo, lettuce and cheese- sandwiched between a sesame seed bun"
+    },
+    {
+        "id" :3, 
+        "title": "Zinger Stacker Combo",
+        "image": "https://pkgiftshop.com/public/user_files/product_images/1678468871-gkfwCk.jpg",
+        "price":850,
+        "description":"1 Zinger Stacker + 1 Regular fries + 1 Regular drink"
+    },
+    {
+        "id" :4, 
+        "title": "Hot Wings Bucket",
+        "image": "https://images.deliveryhero.io/image/fd-pk/Products/1166606.png?width=%s",
+        "price":610,
+        "description":"10 Pcs of our Signature Hot & Crispy Wings"
+    },
+    {
+        "id" :5, 
+        "title": "Twister Combo",
+        "image": "https://giftsandall.com/wp-content/uploads/2021/08/Twister-Combo-From-KFC.jpg",
+        "price":670,
+        "description":"Twister + 1 Regular fries + 1 Regular drink"
+    },
+    {
+        "id" :6, 
+        "title": "Crispy Duo Box",
+        "image": "https://bhejde.pk/wp-content/uploads/2015/06/Send-Crispy-Duo-Box-from-KFC-to-Karachi.webp",
+        "price":1250,
+        "description":"Turn up the fun with 5 pcs Hot & Crispy Chicken + 1 Large fries + 2 Regular drinks"
+    },
+    {
+        "id" :7, 
+        "title": "Krunch Combo",
+        "image": "https://www.tohfay.com/images/products/604215b347c40.jpg",
+        "price":520,
+        "description":"1 Krunch burger + 1 Regular fries + 1 Regular drink"
+    },
+    {
+        "id" :8, 
+        "title": "Family Festival 3",
+        "image": "https://www.pkgiftshop.com/public/user_files/product_images/1678470659-cjmSit.jpg",
+        "price":2450,
+        "description":"An ultimate meal for the fam. It includes 4 Zinger burgers + 4"
+    },
+    {
+        "id" :9, 
+        "title": "Zingeratha",
+        "image": "https://giftsandall.com/wp-content/uploads/2022/10/Zingeratha-Deal-From-KFC-copy-600x600.jpg",
+        "price":350,
+        "description":"Tender boneless strips, sliced onions, tangy imli chutney, mint"
+    },
+    {
+        "id" :10, 
+        "title": "Rice & Spice",
+        "image": "https://giftsandall.com/wp-content/uploads/2021/08/Rice-And-Spice-From-KFC-copy.jpg",
+        "price":350,
+        "description":"Spiced and buttery rice with 6 pcs of Hot Shots topped with"
+    }
+]
