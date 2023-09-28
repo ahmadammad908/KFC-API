@@ -29,7 +29,7 @@ app.get("/search", (req, res) => {
   }
 
   // Use a regular expression to perform a case-insensitive search
-  const regex = new RegExp(searchTerm, "K");
+  const regex = new RegExp(searchTerm, "i");
 
   console.log("Regex:", regex); // Add this line for debugging
 
